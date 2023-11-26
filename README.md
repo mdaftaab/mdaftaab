@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/mdaftaab/mdaftaab/blob/main/Banner.png" width="100%" alt="aftaab">
 <h1 align="center">Hi 👋, I'm Md Aftaab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
