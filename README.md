@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **md.yash99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GgxRLrm0n1mkZwIrZfbMCv9VPhesGyPT/view?usp=drive_link](https://drive.google.com/file/d/1GgxRLrm0n1mkZwIrZfbMCv9VPhesGyPT/view?usp=drive_link)
+- 📄 Download my resume [](https://drive.google.com/file/d/1i_52y8l69sEcJvVjZsxg9JV56_H3hOiJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
