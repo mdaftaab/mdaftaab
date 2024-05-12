@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **md.yash99@gmail.com**
 
-- 📄 Download my resume [](https://drive.google.com/file/d/1i_52y8l69sEcJvVjZsxg9JV56_H3hOiJ/view?usp=drive_link)
+- 📄 Download my resume <a href="https://drive.google.com/file/d/1i_52y8l69sEcJvVjZsxg9JV56_H3hOiJ/view?usp=drive_link" alt="md aftaab resume" />Download CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
