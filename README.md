@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/mdaftaab/mdaftaab.github.io/blob/main/img/1626158210711.jpeg" width="100%" alt="aftaab">
+<img align="center" src="https://github.com/mdaftaab/mdaftaab/blob/main/LinkedIn-Banner.png" width="100%" alt="aftaab">
 <h1 align="center">Hi 👋, I'm Md Aftaab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
